@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce35649-2770-4ab7-a945-fab18bb673c7" name="Changes" comment="" />
+    <list default="true" id="3ce35649-2770-4ab7-a945-fab18bb673c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;oshri12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/oshri12/TestingRepo.git&quot;,
+    &quot;accountId&quot;: &quot;b010090f-6ff8-4e12-a413-f2f505062b23&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -32,44 +46,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.Cars.executor": "Run",
-    "Python.FizzBuzz.executor": "Run",
-    "Python.Fl_ex.executor": "Run",
-    "Python.Guessing_Game.executor": "Run",
-    "Python.MaxNum.executor": "Run",
-    "Python.NBA_API.executor": "Run",
-    "Python.TMDb api.executor": "Run",
-    "Python.api exercise.executor": "Run",
-    "Python.api.executor": "Run",
-    "Python.api_weather.executor": "Run",
-    "Python.data gov.executor": "Run",
-    "Python.dict.executor": "Run",
-    "Python.discord.executor": "Run",
-    "Python.exceptions.executor": "Run",
-    "Python.exercise_lists.executor": "Run",
-    "Python.files.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.hw.executor": "Run",
-    "Python.import.executor": "Run",
-    "Python.inheritance.executor": "Run",
-    "Python.inheritance_קסבקרדןבק.executor": "Run",
-    "Python.jokeapi.executor": "Run",
-    "Python.lambada.executor": "Run",
-    "Python.loops.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.oshri.executor": "Run",
-    "Python.prime.executor": "Run",
-    "Python.sql_lite.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/97254/PycharmProjects/pythonProject/Cars.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Cars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fl_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Guessing_Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MaxNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NBA_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TMDb api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data gov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.discord.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_קסבקרדןבק.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jokeapi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oshri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sql_lite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/97254/PycharmProjects/pythonProject/Cars.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\97254\PycharmProjects\pythonProject\projects" />
+      <recent name="C:\Users\97254\PycharmProjects\pythonProject" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
